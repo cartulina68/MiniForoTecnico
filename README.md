@@ -32,7 +32,7 @@ Un pequeño foro web donde los usuarios pueden hacer preguntas técnicas y recib
 
 ## 📸 Captura de pantalla
 
-(Agrega una imagen aquí si deseas ilustrar tu avance)
+![image](https://github.com/user-attachments/assets/bc6ee6f4-c3c1-49fd-9424-0662cefff824)
 
 ## ⚙️ Requisitos
 
