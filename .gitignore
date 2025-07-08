@@ -1,0 +1,18 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de publicación
+publish/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración local
+appsettings.*.json
